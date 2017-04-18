@@ -1,0 +1,40 @@
+name: beChurch
+analytics: {}
+github: true
+description: >-
+  Somos uma comunidade de homens e mulheres que estão prontos para deixar o
+  Espírito de Deus fazer a obra em nossas vidas.
+author:
+  name: Stephan Garcia
+  url: bechurch.cf
+  email: stephanrgarcia@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.8364422935992479
+color:
+  lightness: 0.2024554887792225
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  saturation: 0.7273335663432566
+  brandStrength: 0.299369787401373
+  rhythmicContrast: 0.8627946271707291
+content_rating:
+  adult: false
+typography_spectrum: 0.2542776295449585
+opengraph: {}
+title: beChurch - Estamos em Obras
